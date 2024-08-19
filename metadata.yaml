@@ -1,5 +1,8 @@
 _repo: From-Berlin-to-Bagdad-and-Babylon_74176
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74176-h/images/cover.jpg
 creator:
   author:
     agent_name: Zahm, J. A. (John Augustine)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37317
     wikipedia: https://en.wikipedia.org/wiki/John_Augustine_Zahm
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74176#From-Berlin-to-Bagdad-and-Babylon
 gutenberg_issued: '2024-08-02'
 gutenberg_type: Text
 identifiers:
